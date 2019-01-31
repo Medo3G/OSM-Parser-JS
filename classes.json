@@ -1,0 +1,41 @@
+[{
+  "name": "institutions",
+  "properties": {
+    "dwell": "480"
+  }
+}, {
+  "name": "daily_necessities",
+  "properties": {
+    "dwell": "120"
+  }
+}, {
+  "name": "residential",
+  "properties": {
+    "dwell": "780"
+  }
+}, {
+  "name": "entertainment",
+  "properties": {
+    "dwell": "120"
+  }
+}, {
+  "name": "cultural",
+  "properties": {
+    "dwell": "120"
+  }
+}, {
+  "name": "physical",
+  "properties": {
+    "dwell": "100"
+  }
+}, {
+  "name": "cross",
+  "properties": {
+    "dwell": "8"
+  }
+}, {
+  "name": "parking",
+  "properties": {
+    "dwell": "N/A"
+  }
+}]
